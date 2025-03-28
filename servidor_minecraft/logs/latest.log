@@ -15791,3 +15791,4 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [28Mar2025 22:05:45.260] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [28Mar2025 22:05:45.505] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [28Mar2025 22:05:46.469] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:blood_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_harvest_moon].
+[28Mar2025 22:18:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola
